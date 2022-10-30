@@ -225,6 +225,11 @@ h3 {
     font-size: 21px;
     font-weight: 500;
     line-height: 25px;
-
+    padding: 0 15px;
+    margin: 0 auto;
 }
 
+.f-cover p {
+    padding: 0 15px;
+    margin: 0 auto;
+}
